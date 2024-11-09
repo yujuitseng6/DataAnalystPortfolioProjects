@@ -1,8 +1,7 @@
 # Dataset
-* Covid Deaths - https://ourworldindata.org/covid-deaths
-* This data set contains information about covid deaths worldwide updated daily
+Covid Deaths: https://ourworldindata.org/covid-deaths
+This dataset contains daily updated information on COVID-19 deaths worldwide.
 
-# Libraries: 
-* Data was cleaned on Excel. All codes were written on SQL
-* Project was inspired by Alex The Analyst – Data Analyst Portfolio Project | SQL Data Exploration Project 1/4, next project is data visualized on Tableau
-https://youtu.be/qfyynHBFOsM
+# Libraries & Tools
+The data was cleaned and preprocessed using Excel.
+All analysis and queries were written in SQL.
